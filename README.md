@@ -32,11 +32,15 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh 
 
 ## Projects
 
-Blood Donation Application – An application to find the eligible donor to donate blood according to the proper blood group. 
-Deep Learning based Rice Leaf Disease Detection – Automated rice leaf disease identification with deep learning, utilizing MobileNetV2 model. 
-Multiplayer game on Unreal Engine (Blueprints) – Designed and implemented multiplayer systems, server to client communication. MVP reached, executed iterative Agile approach for scope control.
-Quiz App Python – Designed UI/UX on Figma, included vet scheduling and localization.
-UI/UX Design – Designed UI/UX on Figma
+**Blood Donation Application** – An application to find the eligible donor to donate blood according to the proper blood group. 
+
+**Deep Learning based Stemm Cell Differentiation (PCA) –** Automated Stem Cell identification with deep learning, utilizing ML model. 
+
+**Multiplayer game on Unreal Engine (Blueprints) –** Designed and implemented multiplayer systems, server to client communication. MVP reached, executed iterative Agile approach for scope control.
+
+**Quiz App Python –** An automated quiz python app.
+
+**UI/UX Design –** Designed UI/UX on Figma
 
 
 ## Skills
