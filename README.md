@@ -1,11 +1,10 @@
-# Your Name
+# Md. Irtiza
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit
 
 ## Contact Information
-- **Address**: 123 Your Street, Your City, ST 12345
-- **Phone**: (123) 456-7890
-- **Email**: no_reply@example.com
+- **Address**:
+- **Phone**: 
+- **Email**: saminmahmood233@gmail.com
 
 ## Experience
 
@@ -27,26 +26,29 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh.
 **MONTH 20XX - MONTH 20XX**  
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore.
 
-### School Name, Location — Degree
-**MONTH 20XX - MONTH 20XX**  
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam.
+### BRAC University, Dhaka — B.Sc. in Computer Science
+**June 2021 - June 2026**  
+**Minor: In English**
 
 ## Projects
 
-### Project Name — Detail
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+Blood Donation Application – An application to find the eligible donor to donate blood according to the proper blood group. 
+Deep Learning based Rice Leaf Disease Detection – Automated rice leaf disease identification with deep learning, utilizing MobileNetV2 model. 
+Multiplayer game on Unreal Engine (Blueprints) – Designed and implemented multiplayer systems, server to client communication. MVP reached, executed iterative Agile approach for scope control.
+Quiz App Python – Designed UI/UX on Figma, included vet scheduling and localization.
+UI/UX Design – Designed UI/UX on Figma
+
 
 ## Skills
-- Lorem ipsum dolor sit amet.
-- Consectetuer adipiscing elit.
-- Sed diam nonummy nibh euismod tincidunt.
-- Laoreet dolore magna aliquam erat volutpat.
+Language: Bangla (Native), English (Fluent)
+Skill: Adept in Word, Excel and PowerPoint.
+Youtube Teaching:  Teaching educative topics and uploading on youtube
 
 ## Awards
 - Lorem ipsum dolor sit amet Consectetuer adipiscing elit, Sed diam nonummy Nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
 - Lorem ipsum dolor sit amet Consectetuer adipiscing elit, Sed diam nonummy Nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
 
 ## Languages
-- Lorem ipsum
-- Dolor sit amet
-- Consectetuer
+- Bangla
+- English
+
