@@ -44,9 +44,11 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh 
 
 
 ## Skills
-Language: Bangla (Native), English (Fluent)
-Skill: Adept in Word, Excel and PowerPoint.
-Youtube Teaching:  Teaching educative topics and uploading on youtube
+**Language:** Bangla (Native), English (Fluent)
+
+**Skill:** Adept in Word, Excel and PowerPoint.
+
+**Youtube Teaching:**  Teaching educative topics and uploading on youtube
 
 ## Awards
 - Lorem ipsum dolor sit amet Consectetuer adipiscing elit, Sed diam nonummy Nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
@@ -54,5 +56,6 @@ Youtube Teaching:  Teaching educative topics and uploading on youtube
 
 ## Languages
 - Bangla
+- 
 - English
 
